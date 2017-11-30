@@ -1,0 +1,9 @@
+file.txt
+*.db
+*.sln
+*.filters
+*.user
+*.idb
+*.pdb
+*.log
+*.tlog
