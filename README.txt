@@ -8,3 +8,7 @@ creating a new branch is quick and simple
 creating a new branch is quick and simple
 >>>>>>> feature1
 this is a test
+
+clone branch
+
+local brach
