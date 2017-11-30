@@ -1,0 +1,177 @@
+﻿  main.cpp
+d:\vs\example\test_9_24\test_9_24\main.cpp(50): error C2039: “EVENT_LBUTTONUP”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(50): error C2065: “EVENT_LBUTTONUP”: 未声明的标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(50): error C2039: “EVENT_FLAG_LBUTTON”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(50): error C2065: “EVENT_FLAG_LBUTTON”: 未声明的标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(52): error C2039: “EVENT_LBUTTONDOWN”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(52): error C2065: “EVENT_LBUTTONDOWN”: 未声明的标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(54): error C2039: “EVENT_MOUSEMOVE”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(54): error C2065: “EVENT_MOUSEMOVE”: 未声明的标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(54): error C2039: “EVENT_FLAG_LBUTTON”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(54): error C2065: “EVENT_FLAG_LBUTTON”: 未声明的标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(59): error C2039: “line”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(59): error C3861: “line”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(60): error C2039: “line”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(60): error C3861: “line”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(62): error C2039: “imshow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(62): error C3861: “imshow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(93): error C2039: “imread”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(93): error C3861: “imread”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(96): error C2039: “cout”: 不是“std”的成员
+  d:\vs\vc\include\deque(16): note: 参见“std”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(96): error C2065: “cout”: 未声明的标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(96): error C2563: 在形参表中不匹配
+d:\vs\example\test_9_24\test_9_24\main.cpp(96): error C2568: “<<”: 无法解析函数重载
+  d:\vs\example\test_9_24\test_9_24\main.cpp(96): note: 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+d:\vs\example\test_9_24\test_9_24\main.cpp(112): error C2039: “imread”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(112): error C3861: “imread”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(116): error C2039: “imwrite”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(116): error C3861: “imwrite”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(117): error C2039: “namedWindow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(117): error C3861: “namedWindow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(118): error C2039: “imshow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(118): error C3861: “imshow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(119): error C2039: “waitKey”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(119): error C3861: “waitKey”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(122): error C2039: “cout”: 不是“std”的成员
+  d:\vs\vc\include\deque(16): note: 参见“std”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(122): error C2065: “cout”: 未声明的标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(122): error C2563: 在形参表中不匹配
+d:\vs\example\test_9_24\test_9_24\main.cpp(122): error C2568: “<<”: 无法解析函数重载
+  d:\vs\example\test_9_24\test_9_24\main.cpp(122): note: 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+d:\vs\example\test_9_24\test_9_24\main.cpp(127): error C2039: “cout”: 不是“std”的成员
+  d:\vs\vc\include\deque(16): note: 参见“std”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(127): error C2065: “cout”: 未声明的标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(127): error C2563: 在形参表中不匹配
+d:\vs\example\test_9_24\test_9_24\main.cpp(127): error C2568: “<<”: 无法解析函数重载
+  d:\vs\example\test_9_24\test_9_24\main.cpp(127): note: 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+d:\vs\example\test_9_24\test_9_24\main.cpp(129): error C2039: “namedWindow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(129): error C3861: “namedWindow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(130): error C2039: “imshow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(130): error C3861: “imshow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(131): error C2039: “setMouseCallback”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(131): error C3861: “setMouseCallback”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(135): error C2039: “waitKey”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(135): error C3861: “waitKey”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(144): error C2039: “imshow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(144): error C3861: “imshow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(152): error C2039: “imwrite”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(152): error C3861: “imwrite”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(154): error C2039: “namedWindow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(154): error C3861: “namedWindow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(155): error C2039: “imshow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(155): error C3861: “imshow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(158): error C2039: “cout”: 不是“std”的成员
+  d:\vs\vc\include\deque(16): note: 参见“std”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(158): error C2065: “cout”: 未声明的标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(158): error C2563: 在形参表中不匹配
+d:\vs\example\test_9_24\test_9_24\main.cpp(158): error C2568: “<<”: 无法解析函数重载
+  d:\vs\example\test_9_24\test_9_24\main.cpp(158): note: 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+d:\vs\example\test_9_24\test_9_24\main.cpp(165): error C2039: “cout”: 不是“std”的成员
+  d:\vs\vc\include\deque(16): note: 参见“std”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(165): error C2065: “cout”: 未声明的标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(165): error C2563: 在形参表中不匹配
+d:\vs\example\test_9_24\test_9_24\main.cpp(165): error C2568: “<<”: 无法解析函数重载
+  d:\vs\example\test_9_24\test_9_24\main.cpp(165): note: 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+d:\vs\example\test_9_24\test_9_24\main.cpp(169): error C2039: “cout”: 不是“std”的成员
+  d:\vs\vc\include\deque(16): note: 参见“std”的声明
+d:\vs\example\test_9_24\test_9_24\main.cpp(169): error C2065: “cout”: 未声明的标识符
+d:\vs\example\test_9_24\test_9_24\main.cpp(169): error C2563: 在形参表中不匹配
+d:\vs\example\test_9_24\test_9_24\main.cpp(169): error C2568: “<<”: 无法解析函数重载
+  d:\vs\example\test_9_24\test_9_24\main.cpp(169): note: 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
+  inpainter.cpp
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(70): error C2039: “namedWindow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(70): error C3861: “namedWindow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(71): error C2039: “namedWindow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(71): error C3861: “namedWindow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(72): error C2039: “namedWindow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(72): error C3861: “namedWindow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(73): error C2039: “namedWindow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(73): error C3861: “namedWindow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(88): error C2039: “imshow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(88): error C3861: “imshow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(89): error C2039: “imshow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(89): error C3861: “imshow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(90): error C2039: “imshow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(90): error C3861: “imshow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(91): error C2039: “imshow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(91): error C3861: “imshow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(92): error C2039: “waitKey”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(92): error C3861: “waitKey”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(97): error C2039: “namedWindow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(97): error C3861: “namedWindow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(98): error C2039: “imshow”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(98): error C3861: “imshow”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(103): error C2039: “cvtColor”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(103): error C3861: “cvtColor”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(105): error C2039: “Scharr”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(105): error C3861: “Scharr”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(110): error C2039: “Scharr”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(110): error C3861: “Scharr”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(140): error C2039: “threshold”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(140): error C3861: “threshold”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(141): error C2039: “threshold”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(141): error C3861: “threshold”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(148): error C2039: “threshold”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(148): error C3861: “threshold”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(149): error C2039: “threshold”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(149): error C3861: “threshold”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(167): error C2039: “filter2D”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(167): error C3861: “filter2D”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(168): error C2039: “filter2D”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(168): error C3861: “filter2D”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(169): error C2039: “filter2D”: 不是“cv”的成员
+  d:\opencv\opencv\build\include\opencv2\core\core_c.h(2789): note: 参见“cv”的声明
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(169): error C3861: “filter2D”: 找不到标识符
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(219): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\vs\example\test_9_24\test_9_24\inpainter.cpp(241): warning C4305: “初始化”: 从“__int64”到“double”截断
+  gradientcalculator.cpp
+d:\vs\example\test_9_24\test_9_24\gradientcalculator.cpp(39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\vs\example\test_9_24\test_9_24\gradientcalculator.cpp(44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\vs\example\test_9_24\test_9_24\gradientcalculator.cpp(57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\vs\example\test_9_24\test_9_24\gradientcalculator.cpp(70): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\vs\example\test_9_24\test_9_24\gradientcalculator.cpp(75): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\vs\example\test_9_24\test_9_24\gradientcalculator.cpp(88): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
